@@ -1,0 +1,364 @@
+C:\Users\carlos_e_braga>ipconfig /all > RelatorioRede.txt
+
+C:\Users\carlos_e_braga>tasklist >> RelatorioRede.txt
+
+C:\Users\carlos_e_braga>type RelatorioRede.txt
+
+Configuração de IP do Windows
+
+   Nome do host. . . . . . . . . . . . . . . . : SN-360405
+   Sufixo DNS primário . . . . . . . . . . . . : edu.fiesc.com.br
+   Tipo de nó. . . . . . . . . . . . . . . . . : híbrido
+   Roteamento de IP ativado. . . . . . . . . . : não
+   Proxy WINS ativado. . . . . . . . . . . . . : não
+   Lista de pesquisa de sufixo DNS . . . . . . : edu.fiesc.com.br
+                                                 edu.senai.local
+                                                 sc.senai.br
+                                                 sistemafiesc.org
+                                                 fiescnet.com.br
+                                                 fiesc.com.br
+                                                 sistemafiesc.com.br
+                                                 sistemafiesc.org.br
+
+Adaptador Ethernet Npcap Loopback Adapter:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Descrição . . . . . . . . . . . . . . . . . : Npcap Loopback Adapter
+   Endereço Físico . . . . . . . . . . . . . . : 02-00-4C-4F-4F-50
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuração Automática Habilitada. . . . . : Sim
+   Endereço IPv6 de link local . . . . . . . . : fe80::68f8:ded2:ba57:f99f%9(Preferencial)
+   Endereço IPv4 de Configuração Automática. . : 169.254.30.207(Preferencial)
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.0.0
+   Gateway Padrão. . . . . . . . . . . . . . . :
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 687997004
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2F-1D-48-CE-D0-94-66-B8-A1-B0
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador Ethernet Ethernet:
+
+   Sufixo DNS específico de conexão. . . . . . : sistemafiesc.org
+   Descrição . . . . . . . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Endereço Físico . . . . . . . . . . . . . . : D0-94-66-B8-A1-B0
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuração Automática Habilitada. . . . . : Sim
+   Endereço IPv6 de link local . . . . . . . . : fe80::8e5a:8846:e0fa:1db2%5(Preferencial)
+   Endereço IPv4. . . . . . . .  . . . . . . . : 10.3.73.142(Preferencial)
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.252.0
+   Concessão Obtida. . . . . . . . . . . . . . : segunda-feira, 31 de março de 2025 09:46:56
+   Concessão Expira. . . . . . . . . . . . . . : quinta-feira, 3 de abril de 2025 13:41:19
+   Gateway Padrão. . . . . . . . . . . . . . . : 10.3.75.253
+   Servidor DHCP . . . . . . . . . . . . . . . : 10.3.75.253
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 282104934
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2F-1D-48-CE-D0-94-66-B8-A1-B0
+   Servidores DNS. . . . . . . . . . . . . . . : 10.180.201.160
+                                                 10.180.201.161
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador Ethernet VMware Network Adapter VMnet1:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Descrição . . . . . . . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet1
+   Endereço Físico . . . . . . . . . . . . . . : 00-50-56-C0-00-01
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuração Automática Habilitada. . . . . : Sim
+   Endereço IPv6 de link local . . . . . . . . : fe80::ba29:ae7b:d310:e391%21(Preferencial)
+   Endereço IPv4 de Configuração Automática. . : 169.254.163.74(Preferencial)
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.0.0
+   Gateway Padrão. . . . . . . . . . . . . . . :
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 788549718
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2F-1D-48-CE-D0-94-66-B8-A1-B0
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador Ethernet VMware Network Adapter VMnet8:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Descrição . . . . . . . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet8
+   Endereço Físico . . . . . . . . . . . . . . : 00-50-56-C0-00-08
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuração Automática Habilitada. . . . . : Sim
+   Endereço IPv6 de link local . . . . . . . . : fe80::f930:7cc4:d8ea:fcd2%18(Preferencial)
+   Endereço IPv4 de Configuração Automática. . : 169.254.227.237(Preferencial)
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.0.0
+   Gateway Padrão. . . . . . . . . . . . . . . :
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 822104150
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2F-1D-48-CE-D0-94-66-B8-A1-B0
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador Ethernet vEthernet (Default Switch):
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Descrição . . . . . . . . . . . . . . . . . : Hyper-V Virtual Ethernet Adapter
+   Endereço Físico . . . . . . . . . . . . . . : 00-15-5D-29-C4-30
+   DHCP Habilitado . . . . . . . . . . . . . . : Não
+   Configuração Automática Habilitada. . . . . : Sim
+   Endereço IPv6 de link local . . . . . . . . : fe80::c0d4:2d27:8e82:3783%23(Preferencial)
+   Endereço IPv4. . . . . . . .  . . . . . . . : 172.28.48.1(Preferencial)
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.240.0
+   Gateway Padrão. . . . . . . . . . . . . . . :
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 385881437
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2F-1D-48-CE-D0-94-66-B8-A1-B0
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Nome da imagem            Identifi Nome da sessão       Sessão# Uso de memór
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          8 K
+System                           4 Services                   0        160 K
+Secure System                  140 Services                   0     54.920 K
+Registry                       180 Services                   0     53.424 K
+smss.exe                       644 Services                   0        644 K
+csrss.exe                     1020 Services                   0      3.108 K
+wininit.exe                   1040 Services                   0      3.672 K
+services.exe                  1172 Services                   0     12.112 K
+LsaIso.exe                    1196 Services                   0      3.724 K
+lsass.exe                     1204 Services                   0     27.176 K
+svchost.exe                   1348 Services                   0     31.440 K
+fontdrvhost.exe               1396 Services                   0      1.524 K
+svchost.exe                   1488 Services                   0     14.984 K
+svchost.exe                   1532 Services                   0      7.140 K
+svchost.exe                   1580 Services                   0     12.732 K
+svchost.exe                   1636 Services                   0     10.032 K
+svchost.exe                   1736 Services                   0      1.916 K
+svchost.exe                   1756 Services                   0      2.324 K
+svchost.exe                   1764 Services                   0      5.216 K
+svchost.exe                   1772 Services                   0      4.756 K
+svchost.exe                   1932 Services                   0      7.512 K
+svchost.exe                   1956 Services                   0      6.260 K
+svchost.exe                   1964 Services                   0      6.044 K
+svchost.exe                   2028 Services                   0      4.708 K
+IntelCpHDCPSvc.exe            1180 Services                   0      1.856 K
+svchost.exe                   1680 Services                   0      2.316 K
+svchost.exe                   1924 Services                   0      5.372 K
+svchost.exe                   2120 Services                   0     15.248 K
+svchost.exe                   2172 Services                   0     11.116 K
+svchost.exe                   2336 Services                   0      6.692 K
+svchost.exe                   2344 Services                   0     44.624 K
+svchost.exe                   2420 Services                   0      5.180 K
+svchost.exe                   2428 Services                   0      8.536 K
+IntelCpHeciSvc.exe            2440 Services                   0      4.224 K
+igfxCUIService.exe            2528 Services                   0      4.532 K
+svchost.exe                   2640 Services                   0      8.596 K
+svchost.exe                   2728 Services                   0     32.584 K
+svchost.exe                   2952 Services                   0      6.596 K
+vmms.exe                      2988 Services                   0     21.120 K
+svchost.exe                   3044 Services                   0      5.460 K
+svchost.exe                   3052 Services                   0      3.088 K
+svchost.exe                   3172 Services                   0      6.648 K
+svchost.exe                   3188 Services                   0      2.212 K
+svchost.exe                   3208 Services                   0     17.056 K
+atiesrxx.exe                  3228 Services                   0      2.816 K
+svchost.exe                   3376 Services                   0      3.556 K
+svchost.exe                   3660 Services                   0      8.148 K
+svchost.exe                   3668 Services                   0      5.832 K
+svchost.exe                   3676 Services                   0      2.280 K
+svchost.exe                   3772 Services                   0      5.584 K
+svchost.exe                   3780 Services                   0      5.304 K
+Memory Compression            3812 Services                   0    704.932 K
+svchost.exe                   3864 Services                   0      4.596 K
+svchost.exe                   3972 Services                   0     11.876 K
+svchost.exe                   4008 Services                   0      3.848 K
+svchost.exe                   4080 Services                   0      6.112 K
+svchost.exe                   4088 Services                   0      6.580 K
+svchost.exe                   3444 Services                   0      9.388 K
+svchost.exe                   4136 Services                   0     29.076 K
+spoolsv.exe                   4240 Services                   0     11.156 K
+svchost.exe                   4324 Services                   0      3.588 K
+svchost.exe                   4644 Services                   0      5.052 K
+svchost.exe                   4804 Services                   0      3.136 K
+svchost.exe                   4812 Services                   0     33.160 K
+mDNSResponder.exe             4820 Services                   0      4.672 K
+ALectraService.exe            4828 Services                   0      1.544 K
+httpd.exe                     4840 Services                   0      2.632 K
+svchost.exe                   4848 Services                   0     43.736 K
+FileZillaServer.exe           4856 Services                   0      3.000 K
+CmRcService.exe               4868 Services                   0      4.484 K
+armsvc.exe                    4876 Services                   0      1.964 K
+AdobeUpdateService.exe        4896 Services                   0      3.564 K
+FNPLicensingService64.exe     4936 Services                   0      6.596 K
+FNPLicensingService.exe       4948 Services                   0      6.024 K
+hasplms.exe                   5000 Services                   0      6.300 K
+modaserv.exe                  5044 Services                   0      1.880 K
+OneApp.IGCC.WinService.ex     5060 Services                   0     13.596 K
+JobReports.WindowService.     5072 Services                   0      4.040 K
+sqlservr.exe                  5116 Services                   0     37.712 K
+svchost.exe                   5136 Services                   0      2.324 K
+PsiService_2.exe              5148 Services                   0      1.960 K
+mysqld.exe                    5232 Services                   0     18.608 K
+svchost.exe                   5252 Services                   0      2.148 K
+sqlwriter.exe                 5272 Services                   0      2.588 K
+SafeExamBrowser.Service.e     5280 Services                   0      3.824 K
+RtkAudUService64.exe          5288 Services                   0      5.836 K
+sqlbrowser.exe                5296 Services                   0      1.808 K
+tomcat8.exe                   5308 Services                   0     23.580 K
+RstMwService.exe              5316 Services                   0      1.984 K
+jhi_service.exe               5332 Services                   0      1.944 K
+vmware-authd.exe              5340 Services                   0      2.788 K
+mysqld.exe                    5368 Services                   0      4.276 K
+vmnetdhcp.exe                 5392 Services                   0      2.080 K
+veyon-service.exe             5400 Services                   0      7.112 K
+svchost.exe                   5408 Services                   0      3.716 K
+vmware-usbarbitrator64.ex     5436 Services                   0      3.744 K
+vmnat.exe                     5448 Services                   0      3.008 K
+WavesSysSvc64.exe             5476 Services                   0      8.660 K
+svchost.exe                   5516 Services                   0     14.040 K
+svchost.exe                   5556 Services                   0      4.472 K
+conhost.exe                   5604 Services                   0      1.976 K
+wslservice.exe                5624 Services                   0      5.164 K
+WTabletServicePro.exe         5692 Services                   0      4.316 K
+svchost.exe                   5904 Services                   0      6.076 K
+mysqld.exe                    2264 Services                   0      3.344 K
+conhost.exe                   7176 Services                   0      1.824 K
+httpd.exe                     8004 Services                   0      1.964 K
+hasplmv.exe                   4756 Services                   0      1.868 K
+svchost.exe                   8544 Services                   0     10.468 K
+AggregatorHost.exe            8812 Services                   0      6.656 K
+WmiPrvSE.exe                  8928 Services                   0     31.908 K
+svchost.exe                   9008 Services                   0     24.888 K
+WmiPrvSE.exe                  9192 Services                   0     17.712 K
+vmcompute.exe                 8588 Services                   0      6.352 K
+svchost.exe                  10180 Services                   0      4.440 K
+svchost.exe                   9152 Services                   0     13.428 K
+PresentationFontCache.exe    10824 Services                   0      3.684 K
+svchost.exe                  11036 Services                   0     23.464 K
+svchost.exe                  11248 Services                   0     15.432 K
+CcmExec.exe                   9864 Services                   0     61.256 K
+svchost.exe                   9824 Services                   0     13.892 K
+svchost.exe                  12412 Services                   0     15.172 K
+svchost.exe                  13568 Services                   0     10.064 K
+SearchIndexer.exe            13576 Services                   0     63.268 K
+svchost.exe                  14180 Services                   0      9.656 K
+WmiPrvSE.exe                 14412 Services                   0     12.108 K
+svchost.exe                   4348 Services                   0     20.076 K
+svchost.exe                  14408 Services                   0      4.196 K
+WmiPrvSE.exe                  7216 Services                   0      4.988 K
+SecurityHealthService.exe    11544 Services                   0     12.556 K
+WmiPrvSE.exe                 15480 Services                   0     35.440 K
+svchost.exe                  18228 Services                   0      7.904 K
+svchost.exe                   2764 Services                   0      1.972 K
+svchost.exe                  17656 Services                   0     10.996 K
+svchost.exe                   3328 Services                   0      6.488 K
+svchost.exe                   9100 Services                   0     23.180 K
+svchost.exe                  17524 Services                   0     12.760 K
+svchost.exe                   2980 Services                   0      2.316 K
+svchost.exe                   1416 Services                   0      2.520 K
+svchost.exe                   2620 Services                   0      5.480 K
+MpDefenderCoreService.exe     2700 Services                   0     14.420 K
+MsMpEng.exe                   4064 Services                   0    629.828 K
+NisSrv.exe                   12656 Services                   0      3.864 K
+MpCmdRun.exe                 10952 Services                   0      3.444 K
+svchost.exe                   8524 Services                   0      3.820 K
+WmiPrvSE.exe                 17272 Services                   0     16.424 K
+csrss.exe                     9240 Console                    8      7.892 K
+winlogon.exe                  3256 Console                    8     12.316 K
+dwm.exe                      11752 Console                    8    111.552 K
+fontdrvhost.exe              12304 Console                    8      4.356 K
+atieclxx.exe                 13388 Console                    8     15.380 K
+sihost.exe                   17096 Console                    8     37.516 K
+svchost.exe                  10992 Console                    8     32.704 K
+igfxEM.exe                   16300 Console                    8     17.460 K
+svchost.exe                  16604 Console                    8     10.184 K
+svchost.exe                  12828 Console                    8     47.452 K
+taskhostw.exe                14476 Console                    8     21.764 K
+explorer.exe                 15136 Console                    8    287.204 K
+Wacom_TabletUser.exe         12848 Console                    8     10.788 K
+svchost.exe                  10476 Console                    8     41.420 K
+WacomHost.exe                15760 Console                    8     14.068 K
+SearchHost.exe               12292 Console                    8    291.832 K
+StartMenuExperienceHost.e    11700 Console                    8    137.648 K
+Widgets.exe                  12068 Console                    8     68.164 K
+RuntimeBroker.exe             4252 Console                    8     57.924 K
+svchost.exe                   2228 Console                    8     23.076 K
+RuntimeBroker.exe            16272 Console                    8     43.752 K
+veyon-server.exe             15320 Console                    8     31.712 K
+WidgetService.exe            13356 Console                    8     26.692 K
+Wacom_Tablet.exe              3204 Console                    8     31.604 K
+dllhost.exe                   4076 Console                    8     23.128 K
+Wacom_TouchUser.exe           4564 Console                    8     15.116 K
+backgroundTaskHost.exe        5584 Console                    8      2.424 K
+veyon-worker.exe             12868 Console                    8     30.180 K
+RtkAudUService64.exe         13696 Console                    8     15.372 K
+ctfmon.exe                    8728 Console                    8     35.476 K
+unsecapp.exe                  6908 Console                    8      9.432 K
+PhoneExperienceHost.exe       7872 Console                    8    164.864 K
+SCNotification.exe            3356 Console                    8     56.924 K
+TextInputHost.exe             4672 Console                    8    129.200 K
+SecurityHealthSystray.exe    14000 Console                    8     12.372 K
+RtkAudUService64.exe          4696 Console                    8     13.492 K
+WavesSvc64.exe               19332 Console                    8     27.684 K
+ShellExperienceHost.exe       2968 Console                    8     92.144 K
+RuntimeBroker.exe             4432 Console                    8     24.716 K
+chrome.exe                   17232 Console                    8    197.548 K
+chrome.exe                   15704 Console                    8      8.644 K
+chrome.exe                   10400 Console                    8    234.748 K
+chrome.exe                   15000 Console                    8     53.872 K
+chrome.exe                   18204 Console                    8     20.508 K
+chrome.exe                   16172 Console                    8    158.904 K
+chrome.exe                   14912 Console                    8     22.776 K
+chrome.exe                   18648 Console                    8     39.740 K
+chrome.exe                    5788 Console                    8     41.756 K
+msedge.exe                    8052 Console                    8    109.256 K
+msedge.exe                    6184 Console                    8      8.988 K
+msedge.exe                   19204 Console                    8     34.232 K
+msedge.exe                    5304 Console                    8     36.020 K
+msedge.exe                    1456 Console                    8     17.224 K
+digitizer.exe                14568 Console                    8     10.936 K
+CCXProcess.exe               16612 Console                    8      3.376 K
+node.exe                     19004 Console                    8     62.324 K
+conhost.exe                  13120 Console                    8      6.868 K
+AdobeIPCBroker.exe           17040 Console                    8     11.248 K
+Adobe Crash Processor.exe    13180 Console                    8     19.220 K
+jusched.exe                  16344 Console                    8     15.208 K
+Creative Cloud.exe            6960 Console                    8     81.464 K
+Creative Cloud UI Helper.    14804 Console                    8     79.136 K
+Creative Cloud UI Helper.     9780 Console                    8     22.160 K
+Creative Cloud UI Helper.     7612 Console                    8     31.056 K
+Adobe Desktop Service.exe    17436 Console                    8     85.716 K
+Creative Cloud UI Helper.    12452 Console                    8    103.072 K
+Creative Cloud Helper.exe    14628 Console                    8     32.788 K
+CoreSync.exe                 11600 Console                    8     32.212 K
+Creative Cloud UI Helper.    11896 Console                    8     94.140 K
+svchost.exe                  15936 Console                    8     15.168 K
+msedgewebview2.exe            3216 Console                    8     50.044 K
+msedgewebview2.exe            6092 Console                    8      8.876 K
+msedgewebview2.exe           14964 Console                    8     67.604 K
+msedgewebview2.exe           18160 Console                    8     22.892 K
+msedgewebview2.exe           13604 Console                    8      6.164 K
+msedgewebview2.exe           16452 Console                    8    177.948 K
+svchost.exe                  16184 Console                    8     21.748 K
+svchost.exe                   5700 Console                    8     14.096 K
+jucheck.exe                  16200 Console                    8     18.660 K
+msedgewebview2.exe           16460 Console                    8      7.248 K
+chrome.exe                   16948 Console                    8    151.864 K
+chrome.exe                    6936 Console                    8     48.552 K
+chrome.exe                   15160 Console                    8    194.196 K
+dllhost.exe                  17932 Console                    8     15.476 K
+RuntimeBroker.exe            14340 Console                    8     13.528 K
+ShellHost.exe                15748 Console                    8     46.496 K
+LockApp.exe                   2924 Console                    8     89.940 K
+RuntimeBroker.exe             5760 Console                    8     39.124 K
+svchost.exe                  13852 Services                   0      8.072 K
+svchost.exe                  18392 Services                   0     22.024 K
+svchost.exe                   1848 Services                   0     48.052 K
+SearchProtocolHost.exe        3280 Services                   0     18.228 K
+SearchFilterHost.exe         16252 Services                   0     11.216 K
+smartscreen.exe               1324 Console                    8     12.292 K
+cmd.exe                      17320 Console                    8      5.708 K
+conhost.exe                  10252 Console                    8      9.760 K
+OpenConsole.exe              10020 Console                    8     18.732 K
+WindowsTerminal.exe           8616 Console                    8     96.792 K
+chrome.exe                   16404 Console                    8     34.508 K
+chrome.exe                    7472 Console                    8    249.056 K
+chrome.exe                   19152 Console                    8     29.716 K
+backgroundTaskHost.exe        2536 Console                    8     47.772 K
+svchost.exe                  11388 Services                   0     13.864 K
+svchost.exe                  12200 Services                   0      9.124 K
+RuntimeBroker.exe             1228 Console                    8     24.624 K
+audiodg.exe                   2736 Services                   0     13.656 K
+tasklist.exe                 13744 Console                    8     11.236 K
+
+C:\Users\carlos_e_braga>dir C:\Users\carlos_e_braga\Downloads > ListaDownloads.txt
+
+C:\Users\carlos_e_braga>cls
+
+C:\Users\carlos_e_braga>echo Sistema Pronto para Uso
+Sistema Pronto para Uso

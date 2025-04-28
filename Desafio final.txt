@@ -1,0 +1,67 @@
+Microsoft Windows [versão 10.0.26100.2894]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\carlos_e_braga>mkdir C:\Users\carlos_e_braga\Documents\ProjetoCMD\Relatorios
+
+C:\Users\carlos_e_braga>mkdir C:\Users\carlos_e_braga\Documents\ProjetoCMD\Configuracoes
+
+C:\Users\carlos_e_braga>mkdir C:\Users\carlos_e_braga\Documents\ProjetoCMD\Logs
+
+C:\Users\carlos_e_braga>echo Texto 1 > arquivo1.txt
+
+C:\Users\carlos_e_braga>echo Texto 2 > arquivo2.txt
+
+C:\Users\carlos_e_braga>echo Texto 3 > arquivo3.txt
+
+C:\Users\carlos_e_braga>copy C:\Users\carlos_e_braga\Documents\ProjetoCMD\Relatorios\* C:\Users\carlos_e_braga\Documents\ProjetoCMD\Logs\
+C:\Users\carlos_e_braga\Documents\ProjetoCMD\Relatorios\*
+O sistema não pode encontrar o arquivo especificado.
+        0 arquivo(s) copiado(s).
+
+C:\Users\carlos_e_braga>move *.txt C:\Users\carlos_e_braga\Documents\ProjetoCMD\Relatorios\
+C:\Users\carlos_e_braga\arquivo1.txt
+C:\Users\carlos_e_braga\arquivo2.txt
+C:\Users\carlos_e_braga\arquivo3.txt
+C:\Users\carlos_e_braga\ListaDownloads.txt
+C:\Users\carlos_e_braga\notas.txt
+C:\Users\carlos_e_braga\RelatorioRede.txt
+        6 arquivo(s) movido(s).
+
+C:\Users\carlos_e_braga>C:\Users\carlos_e_braga>copy C:\Users\carlos_e_braga\Documents\ProjetoCMD\Relatorios\* C:\Users\carlos_e_braga\Documents\ProjetoCMD\Logs\
+'C:\Users\carlos_e_braga' não é reconhecido como um comando interno
+ou externo, um programa operável ou um arquivo em lotes.
+
+C:\Users\carlos_e_braga>move C:\Users\carlos_e_braga\Documents\ProjetoCMD\Relatorios\arquivo1.txt C:\Users\carlos_e_braga\Documents\ProjetoCMD\Logs\
+        1 arquivo(s) movido(s).
+
+C:\Users\carlos_e_braga>move C:\Users\carlos_e_braga\Documents\ProjetoCMD\Relatorios\arquivo2.txt C:\Users\carlos_e_braga\Documents\ProjetoCMD\Logs\
+        1 arquivo(s) movido(s).
+
+C:\Users\carlos_e_braga>move C:\Users\carlos_e_braga\Documents\ProjetoCMD\Relatorios\arquivo3.txt C:\Users\carlos_e_braga\Documents\ProjetoCMD\Logs\
+        1 arquivo(s) movido(s).
+
+C:\Users\carlos_e_braga>ren C:\Users\carlos_e_braga\Documents\ProjetoCMD\Logs\arquivo1.txt Backup.log
+
+C:\Users\carlos_e_braga>dir C:\Users\carlos_e_braga\Documents\ProjetoCMD > C:\Users\carlos_e_braga\Documents\ProjetoCMD\Resumo.txt
+
+C:\Users\carlos_e_braga>type C:\Users\carlos_e_braga\Documents\ProjetoCMD\Resumo.txt
+ O volume na unidade C não tem nome.
+ O Número de Série do Volume é 86E7-0DBB
+
+ Pasta de C:\Users\carlos_e_braga\Documents\ProjetoCMD
+
+02/04/2025  16:21    <DIR>          .
+02/04/2025  16:10    <DIR>          ..
+02/04/2025  16:10    <DIR>          Configuracoes
+02/04/2025  16:20    <DIR>          Logs
+02/04/2025  16:20    <DIR>          Relatorios
+02/04/2025  16:21                 0 Resumo.txt
+               1 arquivo(s)              0 bytes
+               5 pasta(s)    2.280.517.632 bytes disponíveis
+
+C:\Users\carlos_e_braga>del C:\Users\carlos_e_braga\Documents\ProjetoCMD\Logs\*
+C:\Users\carlos_e_braga\Documents\ProjetoCMD\Logs\*, Tem certeza (S/N)? S
+
+C:\Users\carlos_e_braga>rd C:\Users\carlos_e_braga\Documents\ProjetoCMD\Logs
+
+C:\Users\carlos_e_braga>

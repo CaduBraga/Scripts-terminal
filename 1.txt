@@ -1,0 +1,62 @@
+Microsoft Windows [versão 10.0.26100.2894]  
+(c) Microsoft Corporation. Todos os direitos reservados.  
+
+C:\Users\carlos_e.braga>dir  
+O Volume na unidade C: não tem nome.  
+O Número de Série do Volume é 8067-D0BB  
+
+Pasta de C:\Users\carlos_e.braga  
+
+27/03/2025  16:16    <DIR>          .  
+27/03/2025  16:16    <DIR>          ..  
+06/03/2025  15:58    <DIR>          .cache  
+06/03/2025  15:58    <DIR>          .eclipse  
+06/03/2025  15:58    <DIR>          .vscode  
+06/03/2025  15:58    <DIR>          .ms-ad  
+04/03/2025  13:44    <DIR>          Contacts  
+04/03/2025  13:44    <DIR>          Desktop  
+04/03/2025  13:44    <DIR>          Documents  
+04/03/2025  13:44    <DIR>          Downloads  
+04/03/2025  13:44    <DIR>          eclipse-workspace  
+04/03/2025  13:44    <DIR>          Favorites  
+04/03/2025  13:44    <DIR>          Links  
+04/03/2025  13:44    <DIR>          Music  
+04/03/2025  13:44    <DIR>          OneDrive  
+04/03/2025  13:44    <DIR>          Pictures  
+04/03/2025  13:44    <DIR>          Saved Games  
+04/03/2025  13:44    <DIR>          Searches  
+04/03/2025  13:44    <DIR>          Videos  
+               0 arquivo(s)          0 bytes  
+              19 pasta(s)  2.796.208.128 bytes disponíveis  
+
+C:\Users\carlos_e.braga>cd Documents  
+
+C:\Users\carlos_e.braga\Documents>mkdir ExerciciosCMD  
+
+C:\Users\carlos_e.braga\Documents>cd ExerciciosCMD   
+
+C:\Users\carlos_e.braga\Documents\ExerciciosCMD>cd ..\..\Downloads  
+
+C:\Users\carlos_e.braga\Downloads>dir  
+O Volume na unidade C: não tem nome.  
+O Número de Série do Volume é 8067-D0BB  
+
+Pasta de C:\Users\carlos_e.braga\Downloads  
+
+28/03/2025  16:25    <DIR>          .  
+28/03/2025  16:25    <DIR>          ..  
+27/03/2025  15:08           85.084 2d6a84b9f9271b9e9adf54b0c3bee2.jpg  
+26/03/2025  14:10          108.916 af7ccf4160c2f57b0e35fae6ac68cc.png  
+06/03/2025  15:58    <DIR>          Classes  
+04/03/2025  15:08          123.851 Classes1.jpg  
+04/03/2025  15:08          156.083 Classes2.jpg  
+04/03/2025  15:08        6.898.365 bd0605b.zip  
+04/03/2025  15:08          120.408 com parametros.zip  
+04/03/2025  15:08          148.183 Documentação 2_classes.pdf  
+04/03/2025  15:08          102.808 IMG_60891.jpg  
+04/03/2025  15:08          152.013 Lista de Exercícios.docx(1).pdf  
+04/03/2025  15:08        6.780.821 SO_02_Introducao_aos_sistemas_operacionais.pdf  
+04/03/2025  15:08           62.682 WhatsApp Image 2023-11-16 at 11.36.37.jpeg  
+04/03/2025  15:08          120.648 a.jpg  
+              14 arquivo(s)     15.253.134 bytes  
+               1 pasta(s)  7.785.281.664 bytes disponíveis

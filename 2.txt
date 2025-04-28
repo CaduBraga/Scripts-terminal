@@ -1,0 +1,64 @@
+Microsoft Windows [versão 10.0.26100.2894]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\carlos_e_braga>echo Meu primeiro arquivo no CMD > notas.txt
+
+C:\Users\carlos_e_braga>copy notas.txt C:\Users\carlos_e_braga\Downloads\
+        1 arquivo(s) copiado(s).
+
+C:\Users\carlos_e_braga>ren notas.txt minhas_anotacoes.txt
+
+C:\Users\carlos_e_braga>move minhas_anotacoes.txt C:\Users\carlos_e_braga\Desktop\
+        1 arquivo(s) movido(s).
+
+C:\Users\carlos_e_braga>type C:\Users\carlos_e_braga\Desktop\minhas_anotacoes.txt
+Meu primeiro arquivo no CMD
+
+C:\Users\carlos_e_braga>notepad minhas_anotacoes.txt
+
+C:\Users\carlos_e_braga>mkdir C:\Users\carlos_e_braga\Documents\BackupCMD
+
+C:\Users\carlos_e_braga>copy C:\Users\carlos_e_braga\Downloads\*.* C:\Users\carlos_e_braga\Documents\BackupCMD\
+C:\Users\carlos_e_braga\Downloads\a26da84f09c829d74e9adf454c300ee2.jpg
+C:\Users\carlos_e_braga\Documents\caf616d7cc0666b89a6da5a0faec686c.png?
+C:\Users\carlos_e_braga\Downloads\Classes.jpg
+C:\Users\carlos_e_braga\Downloads\Classes1.jpg
+C:\Users\carlos_e_braga\Downloads\com dois metodos.zip
+C:\Users\carlos_e_braga\Downloads\com parametros.zip
+C:\Users\carlos_e_braga\Downloads\Documentação - classes.pdf
+C:\Users\carlos_e_braga\Downloads\Fotos do iCloud.zip
+C:\Users\carlos_e_braga\Downloads\IMG_6081.JPEG
+C:\Users\carlos_e_braga\Downloads\Lista 2 de Exercícios.docx-1 (1).pdf
+C:\Users\carlos_e_braga\Downloads\Lista 2 de Exercícios.docx-1.pdf
+C:\Users\carlos_e_braga\Downloads\notas.txt
+C:\Users\carlos_e_braga\Downloads\SO_02_Introducao_aos_sistemas_operacionais.pdf
+C:\Users\carlos_e_braga\Downloads\WhatsApp Image 2025-03-17 at 11.36.37.jpeg
+C:\Users\carlos_e_braga\Downloads\Z.jfif
+       15 arquivo(s) copiado(s).
+
+C:\Users\carlos_e_braga>dir C:\Users\carlos_e_braga\Downloads /a
+ O volume na unidade C não tem nome.
+ O Número de Série do Volume é 86E7-0DBB
+
+ Pasta de C:\Users\carlos_e_braga\Downloads
+
+02/04/2025  14:42    <DIR>          .
+02/04/2025  16:00    <DIR>          ..
+28/03/2025  13:46            85.084 a26da84f09c829d74e9adf454c300ee2.jpg
+28/03/2025  13:50           861.867 caf616d7cc0666b89a6da5a0faec686c.png
+21/03/2025  14:02           106.229 Classes.jpg
+21/03/2025  14:04           105.838 Classes1.jpg
+28/03/2025  16:25            22.661 com dois metodos.zip
+28/03/2025  14:38            19.408 com parametros.zip
+04/03/2025  13:44               282 desktop.ini
+21/03/2025  14:02           148.283 Documentação - classes.pdf
+25/03/2025  21:30         5.602.187 Fotos do iCloud.zip
+21/03/2025  14:11           857.483 IMG_6081.JPEG
+26/03/2025  16:10           373.281 Lista 2 de Exercícios.docx-1 (1).pdf
+24/03/2025  13:47           373.281 Lista 2 de Exercícios.docx-1.pdf
+02/04/2025  15:59                30 notas.txt
+19/03/2025  16:11         6.780.225 SO_02_Introducao_aos_sistemas_operacionais.pdf
+26/03/2025  16:12            97.668 WhatsApp Image 2025-03-17 at 11.36.37.jpeg
+28/03/2025  14:37           102.648 Z.jfif
+              16 arquivo(s)     15.536.455 bytes
+               2 pasta(s)    2.274.729.984 bytes disponíveis
