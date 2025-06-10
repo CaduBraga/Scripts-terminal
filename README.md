@@ -26,6 +26,3 @@ As atividades fazem parte da UC de Sistemas Operacionais e têm como objetivo pr
 2. Siga as instruções presentes nos próprios scripts para realizar os testes.
 
 ---
-
-**Autor:** Cadu Braga  
-**Unidade Curricular:** Sistemas Operacionais
