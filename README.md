@@ -28,4 +28,4 @@ As atividades fazem parte da UC de Sistemas Operacionais e têm como objetivo pr
 ---
 
 **Autor:** Cadu Braga  
-**Disciplina:** Sistemas Operacionais
+**Unidade Curricular:** Sistemas Operacionais
